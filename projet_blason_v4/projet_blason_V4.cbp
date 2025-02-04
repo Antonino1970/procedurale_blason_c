@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="projet_blason_V4" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/projet_blason_V4" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/projet_blason_V4" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Cartouche_Bmp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="DB_File.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="DB_Index.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="DB_Main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="DB_Main.h" />
+		<Unit filename="DB_Tables.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="DB_recherche.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="LDC_Generic.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="LDC_Specific.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Polices.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Rapport.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Rapport.h" />
+		<Unit filename="Util_Bitmap.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Util_Bitmap.h" />
+		<Unit filename="menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

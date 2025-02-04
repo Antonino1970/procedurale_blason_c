@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1734249548 source:d:\cour_programmeur\procedurale\projet_blason_v3\projet_blason_v4\cartouche_bmp.c
+	"DB_Main.h"
+
+1734250147 d:\cour_programmeur\procedurale\projet_blason_v3\projet_blason_v4\db_main.h
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"Util_Bitmap.h"
+	"menu.h"
+	"Rapport.h"
+
+1734189061 d:\cour_programmeur\procedurale\projet_blason_v3\projet_blason_v4\util_bitmap.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1734028171 d:\cour_programmeur\procedurale\projet_blason_v3\projet_blason_v4\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1734094758 d:\cour_programmeur\procedurale\projet_blason_v3\projet_blason_v4\rapport.h
+
+1733602020 source:d:\cour_programmeur\procedurale\projet_blason_v3\projet_blason_v4\db_file.c
+	"DB_Main.h"
+
+1733935038 source:d:\cour_programmeur\procedurale\projet_blason_v3\projet_blason_v4\db_index.c
+	"DB_Main.h"
+
+1734199924 source:d:\cour_programmeur\procedurale\projet_blason_v3\projet_blason_v4\db_main.c
+	"DB_Main.h"
+	"menu.h"
+
+1734162289 source:d:\cour_programmeur\procedurale\projet_blason_v3\projet_blason_v4\db_recherche.c
+	"DB_Main.h"
+	<conio.h>
+
+1734028334 source:d:\cour_programmeur\procedurale\projet_blason_v3\projet_blason_v4\db_tables.c
+	"DB_Main.h"
+
+1733378580 source:d:\cour_programmeur\procedurale\projet_blason_v3\projet_blason_v4\ldc_generic.c
+	"DB_Main.h"
+
+1734193199 source:d:\cour_programmeur\procedurale\projet_blason_v3\projet_blason_v4\ldc_specific.c
+	"DB_Main.h"
+
+1734202653 source:d:\cour_programmeur\procedurale\projet_blason_v3\projet_blason_v4\menu.c
+	"menu.h"
+	"DB_Main.h"
+	<sys/stat.h>
+
+1734190091 source:d:\cour_programmeur\procedurale\projet_blason_v3\projet_blason_v4\polices.c
+	"DB_Main.h"
+
+1734250147 source:d:\cour_programmeur\procedurale\projet_blason_v3\projet_blason_v4\util_bitmap.c
+	"Util_Bitmap.h"
+	<time.h>
+	<sys/stat.h>
+	<sys/types.h>
+
+1734250147 source:d:\cour_programmeur\procedurale\projet_blason_v3\projet_blason_v4\rapport.c
+	"menu.h"
+	"DB_Main.h"
+	<time.h>
+
